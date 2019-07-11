@@ -1,0 +1,42 @@
+.animations {
+    border-width: 5px;
+    border-style: solid;
+    width: 80vw;
+    height: 50vh;
+}
+.keyFrame {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: relative;
+    animation: mymove 5s infinite;
+}  
+/* 28C */
+@keyframes mymove {
+    0%   {top: 0px; background: blue; width: 100px;}
+    100% {top: 200px; background: pink; width: 300px;}
+}
+/* 28D */
+.transition {
+    float: right;
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    transition: width 2s;
+}
+/* 26H */
+.transition:hover {
+    width: 300px;
+  }
+  /* 28E */
+  .transform {
+    position: relative;
+    left: 35vw;
+    color: green;
+    width: 150px;
+    height: 80px;
+    background-color: yellow;
+    -ms-transform: rotate(20deg);
+    -webkit-transform: rotate(20deg);
+    transform: rotate(20deg);
+  }

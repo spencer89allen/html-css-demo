@@ -1,0 +1,65 @@
+.attributesBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.blocksBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.span {
+    font-size: x-large;
+}
+.contentBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.images {
+    height: 20vh;
+    width: 15vw;
+}
+.headersBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.linkBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.sectionsBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.selfClosingBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.selfClosingTag {
+    height: 35vh;
+    width: 15vw;
+}
+.skeletonBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}
+.scriptBox{    
+    border-style: solid;
+    border-width: 5px;
+    height: 60vh;
+    width: 80vw;
+}

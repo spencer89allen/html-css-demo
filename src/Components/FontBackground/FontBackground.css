@@ -1,0 +1,39 @@
+.Backgroundbox {
+    border-style: solid;
+    border-width: 5px;
+    /* 23E */
+    background-color: #1A7F9A;
+    width: 80vw;
+    height: 25vh;
+}
+.fontWeightText {
+    /* 23D-1 */
+    font-weight: bolder;
+    /* 23D-2	 */
+    color: black
+}
+.fontSizeText {
+    /* 23D-3	 */
+    font-size: x-large;
+    /* 23D-2	 */
+    color: black;
+}
+.BackgroundImage {
+    border-style: solid;
+    border-width: 5px;
+    /* 23F */
+    background-image: url("https://images.unsplash.com/photo-1562337683-f309a8d2da9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80vw;
+    height: 80vh;
+    opacity: 0.8;
+}
+.BackgroundImageText {
+    text-align: center;
+    position: relative;
+    color: white;
+    font-size: x-large;
+
+}

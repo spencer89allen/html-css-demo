@@ -1,0 +1,12 @@
+/* 24F */
+.boxmodel {
+    background-color: #E67E22;
+    width: 80vw;
+    height: 20vh;
+    /* 24D	 */
+    border: 15px solid #2C3E50;
+    /* 24E	 */
+    padding: 50px;
+    /* 24C */
+    margin: 20px;
+  }

@@ -1,0 +1,35 @@
+.positionBox {
+    background-image: url("https://images.unsplash.com/photo-1562516685-c2636004ca13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=968&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80vw;
+    height: 80vh;
+    opacity: 0.8;
+    border-style: solid;
+    border-width: 5px;
+    background-color: black;
+}
+.relative {
+    /* 25C-1	 */
+    position: relative;
+    left: 35vw;
+    color: black;
+    font-size: large;
+}
+.absolute {
+    /* 25C-2	 */
+    position: absolute;
+    top: 310vh;
+    left: 3vw;
+    color: black;
+    font-size: large;
+}
+.fixed {
+    /* 25C-3	 */
+    position: fixed;
+    bottom: 0;
+    right: 15vw;
+    color: #E83815;
+    font-size: large;
+}
