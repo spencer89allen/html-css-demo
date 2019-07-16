@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+// import { Link } from 'react-router-dom'
+
 import './Elements.css';
 
 
@@ -45,7 +47,9 @@ class Elements extends Component {
                 </div>
                 <div className='linkBox'>
                     <h2>link</h2>
-                    {/* <link>This is a link tag</link> */}
+                    {/* <Link to='https://www.linkedin.com/in/spencerlallen/'>
+                        This is a link tag to my LinkedIn
+                    </Link> */}
                 </div>
                 <div className='sectionsBox'>
                     <h2>sections</h2>

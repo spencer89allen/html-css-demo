@@ -1,0 +1,40 @@
+/* 22C-2 */
+.selectorsBox {
+    /* background-image: url("https://images.unsplash.com/photo-1563162560-9639e49ab4f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1089&q=80"); */
+    background-color: gray;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80vw;
+    height: 80vh;
+    opacity: 0.8;
+    border-style: solid;
+    border-width: 5px;
+    background-color: black;
+}
+/* 22C-1 */
+#identified {
+    background-color: skyblue;
+  }
+/* 22C-3 */
+  li {
+    list-style-type: disc;
+    color: white;
+  }
+  
+  li li {
+    list-style-type: circle;
+    color: black;
+  }
+/* 22C-4 */
+  span {
+    background-color: white;
+  }
+  /* 22C-4 */
+  div > span {
+    background-color: DodgerBlue;
+  }
+  /* 22C-5 */
+  li:first-of-type + li {
+    color: red;
+  }
